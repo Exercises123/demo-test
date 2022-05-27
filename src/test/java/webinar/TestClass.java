@@ -17,6 +17,7 @@ public class TestClass {
         $(".mr-sm-2.form-control").sendKeys("123Name");
         $("#lastName").sendKeys("LastName");
         $("#userNumber").sendKeys("1231231231");
+
     }
 
 }
